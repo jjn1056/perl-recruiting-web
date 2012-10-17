@@ -6,13 +6,13 @@ PerlRecruiterFaq - Help for recruiters who trying to find Perl programmers
 
 So, you're a recruiter who's looking to fill some Perl programmer positions?  You've come to the right place!  This document is the Perl.org Community's effort to help you better understand Perl programmers, where to find them, as well as better grasp the company requirement.  So let's get started!
 
-This document is organized into three sections.  The first section, “Understanding the Job Position” is designed to help you figure out what type of Perl programmer you are looking for.  It offers some guidance in speaking with the hiring manager, the kinds of questions to ask and hints on how to ‘read between the lines' a bit.  The second section offers some thoughts about the best places to go looking for Perl programmers as well as some ideas to raise your personal visibility within the Perl community.  The third and last section offers thoughts on how to review a programmer's resume as well as his or her related community and open source contributions.
+This document is organized into three sections.  The first section, "Understanding the Job Position" is designed to help you figure out what type of Perl programmer you are looking for.  It offers some guidance in speaking with the hiring manager, the kinds of questions to ask and hints on how to 'read between the lines' a bit.  The second section offers some thoughts about the best places to go looking for Perl programmers as well as some ideas to raise your personal visibility within the Perl community.  The third and last section offers thoughts on how to review a programmer's resume as well as his or her related community and open source contributions.
 
 By the end of the document we hope you have a better sense of how to be successful in connecting the right programmer with the right job.
 
 =head1 Understanding the Job Position
 
-Perl has been around a long time, and over the years it has filled a lot of niches.  People have used it for everything from system administration and automation to building massively successful web sites.  In addition, Perl has traditionally not been organized into clearly defined systems and stacks.  Perl programmers often describe themselves in terms of “Perl” and not in terms of a particular sub technology or discipline within the Perl ecosystem.  This can make it hard for you to understand exactly what the requirement is.  Quite often the hiring manager will simply say they want people with Perl experience.  In this case you need to probe a bit in order to figure things out.  Here's some great blog posts you should review in order to get the ball rolling:
+Perl has been around a long time, and over the years it has filled a lot of niches.  People have used it for everything from system administration and automation to building massively successful web sites.  In addition, Perl has traditionally not been organized into clearly defined systems and stacks.  Perl programmers often describe themselves in terms of "Perl" and not in terms of a particular sub technology or discipline within the Perl ecosystem.  This can make it hard for you to understand exactly what the requirement is.  Quite often the hiring manager will simply say they want people with Perl experience.  In this case you need to probe a bit in order to figure things out.  Here's some great blog posts you should review in order to get the ball rolling:
 
 =head2 Technical Concerns
 
@@ -51,7 +51,7 @@ Yet Another Perl Conferences (L<YAPC|http://www.yapc.org/>) take place several t
 
 =head2 Your local Perl Mongers Group
 
-Perl programmers who are local to one another have organized social groups called “Mongers”.  Some Perl Mongers groups are primarily social, while others also mix in technical concerns and host regular tech oriented meetings.  In any case you can find your most local Perl Monger group here : http://www.pm.org/
+Perl programmers who are local to one another have organized social groups called "Mongers".  Some Perl Mongers groups are primarily social, while others also mix in technical concerns and host regular tech oriented meetings.  In any case you can find your most local Perl Monger group here : http://www.pm.org/
 
 =head2 Blogs
 
@@ -75,7 +75,7 @@ Many Perl programmers are using Github ( L<http://github.com> )nowadays and that
 
 Of course, what if you have a competent but otherwise not particularly social Perl programmer?  There's a LOT (the majority actually) of Perl programmers that don't participate socially because they don't have personal time, or work at a company that doesn't give them time to do so.  Are there other ways to read a Perl resume?
 
-If you look at their resume and see PERL instead of Perl, that's probably an indicator they are not particular strong (same thing goes for the hiring manager BTW, if a company says they want a PERL programmer, they are probably stuck in the 1990's).  Calling Perl, “PERL” is the kind of mistake that should easily jump out at you.
+If you look at their resume and see PERL instead of Perl, that's probably an indicator they are not particular strong (same thing goes for the hiring manager BTW, if a company says they want a PERL programmer, they are probably stuck in the 1990's).  Calling Perl, "PERL" is the kind of mistake that should easily jump out at you.
 
 But more seriously, when reviewing a potential Perl programmer resume here's a few things to check out, and to ask when speaking with the programmer:
 
