@@ -4,15 +4,15 @@ PerlRecruiterFaq - Help for recruiters who trying to find Perl programmers
 
 =head1 SUMMARY
 
-So, you’re a recruiter who’s looking to fill some Perl programmer positions?  You’ve come to the right place!  This document is the Perl.org Community’s effort to help you better understand Perl programmers, where to find them, as well as better grasp the company requirement.  So let’s get started!
+So, you're a recruiter who's looking to fill some Perl programmer positions?  You've come to the right place!  This document is the Perl.org Community's effort to help you better understand Perl programmers, where to find them, as well as better grasp the company requirement.  So let's get started!
 
-This document is organized into three sections.  The first section, “Understanding the Job Position” is designed to help you figure out what type of Perl programmer you are looking for.  It offers some guidance in speaking with the hiring manager, the kinds of questions to ask and hints on how to ‘read between the lines’ a bit.  The second section offers some thoughts about the best places to go looking for Perl programmers as well as some ideas to raise your personal visibility within the Perl community.  The third and last section offers thoughts on how to review a programmer’s resume as well as his or her related community and open source contributions.
+This document is organized into three sections.  The first section, “Understanding the Job Position” is designed to help you figure out what type of Perl programmer you are looking for.  It offers some guidance in speaking with the hiring manager, the kinds of questions to ask and hints on how to ‘read between the lines' a bit.  The second section offers some thoughts about the best places to go looking for Perl programmers as well as some ideas to raise your personal visibility within the Perl community.  The third and last section offers thoughts on how to review a programmer's resume as well as his or her related community and open source contributions.
 
 By the end of the document we hope you have a better sense of how to be successful in connecting the right programmer with the right job.
 
 =head1 Understanding the Job Position
 
-Perl has been around a long time, and over the years it has filled a lot of niches.  People have used it for everything from system administration and automation to building massively successful web sites.  In addition, Perl has traditionally not been organized into clearly defined systems and stacks.  Perl programmers often describe themselves in terms of “Perl” and not in terms of a particular sub technology or discipline within the Perl ecosystem.  This can make it hard for you to understand exactly what the requirement is.  Quite often the hiring manager will simply say they want people with Perl experience.  In this case you need to probe a bit in order to figure things out.  Here’s some great blog posts you should review in order to get the ball rolling:
+Perl has been around a long time, and over the years it has filled a lot of niches.  People have used it for everything from system administration and automation to building massively successful web sites.  In addition, Perl has traditionally not been organized into clearly defined systems and stacks.  Perl programmers often describe themselves in terms of “Perl” and not in terms of a particular sub technology or discipline within the Perl ecosystem.  This can make it hard for you to understand exactly what the requirement is.  Quite often the hiring manager will simply say they want people with Perl experience.  In this case you need to probe a bit in order to figure things out.  Here's some great blog posts you should review in order to get the ball rolling:
 
 =head2 Technical Concerns
 
@@ -28,7 +28,7 @@ These cover things related to how it is to work at a given company.  Things like
 
 =head2 Perl Specific
 
-Blog : L<Perl Specific|http://www.modernperlbooks.com/mt/2012/07/perl-shop-maturity-checklist-perl-specific-concerns.html>.
+Blog :L<Perl Specific|http://www.modernperlbooks.com/mt/2012/07/perl-shop-maturity-checklist-perl-specific-concerns.html>.
 
 The first two general groups of questions you could rightfully ask for any time of IT job, and any language.  This last group of questions helps you narrow down better what Perl means to this company.  I recommend asking some questions to find out how modern the shop is.  For example, if they are using Apache and mod_perl, these are Perl related technologies that were considered state of the art in the mid to late 1990s.  This is not to say they are bad technologies, but a programmer who is skilled in Plack, Moose, DBIx::Class and modern web frameworks like Catalyst, Mojolicious or Dancer might not be the best match (or they could be, but is something you need to speak to the developer about).
 
@@ -41,9 +41,9 @@ Since you are a recruiter I will assume you already know about the standard list
 
 =head2 CPAN
 
-The Comprehensive Perl Archive Network is Perl’s great collection of reusable, open source components.  Generally it is the first place Perl programmer’s turn when trying to solve problems.  Many of the world’s best Perl programmers will contribute to CPAN (although not all).
+The Comprehensive Perl Archive Network is Perl's great collection of reusable, open source components.  Generally it is the first place Perl programmer's turn when trying to solve problems.  Many of the world's best Perl programmers will contribute to CPAN (although not all).
 
-Although you can contact programmers via information on their CPAN accounts, many programmers also value their privacy so please use this contact information with care (in other words don’t use it to create mailing lists that you bulk send regularly).
+Although you can contact programmers via information on their CPAN accounts, many programmers also value their privacy so please use this contact information with care (in other words don't use it to create mailing lists that you bulk send regularly).
 
 =head2 YAPC
 
@@ -57,7 +57,7 @@ Perl programmers who are local to one another have organized social groups calle
 
 L<http://blogs.perl.org/> and L<http://ironman.enlightenedperl.org/>
 
-There’s a lot more blogging going on in the Perl community nowadays, and many bloggers have public profiles.  Same caveats as CPAN.
+There's a lot more blogging going on in the Perl community nowadays, and many bloggers have public profiles.  Same caveats as CPAN.
 
 =head2 Perl Job Websites
 
@@ -67,17 +67,17 @@ This is one of the main places people looking for Perl programmers advertise, an
 
 =head1 How to Review a Perl Programmer
 
-So, you’ve identified someone as a possible candidate, you have a resume and possibly some additional information such as there CPAN ID, github account, etc.  How do you evaluate this information?
+So, you've identified someone as a possible candidate, you have a resume and possibly some additional information such as there CPAN ID, github account, etc.  How do you evaluate this information?
 
-Let’s start with the easiest things first.  Many of the better Perl programmers will contribute to one or more CPAN (L<http://cpan.org>, L<http://metacpan.org/> ) projects.  If someone lists a CPAN account, that might be a strong indicator.  But you need to take this advice carefully!  As I mentioned, not all good Perl programmers contribute to CPAN.  In addition you need to look at what their contributions are. If they are contributing to the ecosystem around some of the more important Modern Perl projects, such as Moose, Plack, DBIx::Class, Catalyst, Dancer, Mojolicious I would tend to weigh those contributions more highly.  You should also check to see how well they maintain their projects (most CPAN projects tend to have frequent releases at the start, and then trail off over time as the bugs get worked out).  And there’s a nice report of how well those modules are passing their tests.
+Let's start with the easiest things first.  Many of the better Perl programmers will contribute to one or more CPAN (L<http://cpan.org>, L<http://metacpan.org/> ) projects.  If someone lists a CPAN account, that might be a strong indicator.  But you need to take this advice carefully!  As I mentioned, not all good Perl programmers contribute to CPAN.  In addition you need to look at what their contributions are. If they are contributing to the ecosystem around some of the more important Modern Perl projects, such as Moose, Plack, DBIx::Class, Catalyst, Dancer, Mojolicious I would tend to weigh those contributions more highly.  You should also check to see how well they maintain their projects (most CPAN projects tend to have frequent releases at the start, and then trail off over time as the bugs get worked out).  And there's a nice report of how well those modules are passing their tests.
 
-Many Perl programmers are using Github ( L<http://github.com> )nowadays and that’s also a good place to see if someone is contributing patches and bug reports to projects.  As I said, not all Perl programmers contribute to CPAN directly, but many more report bugs and send patches to fix existing modules.  Checking a Github account and seeing if someone is forking Perl projects and sending patches is also not a bad way to get a sense of a programmer’s chops.
+Many Perl programmers are using Github ( L<http://github.com> )nowadays and that's also a good place to see if someone is contributing patches and bug reports to projects.  As I said, not all Perl programmers contribute to CPAN directly, but many more report bugs and send patches to fix existing modules.  Checking a Github account and seeing if someone is forking Perl projects and sending patches is also not a bad way to get a sense of a programmer's chops.
 
-Of course, what if you have a competent but otherwise not particularly social Perl programmer?  There’s a LOT (the majority actually) of Perl programmers that don’t participate socially because they don’t have personal time, or work at a company that doesn’t give them time to do so.  Are there other ways to read a Perl resume?
+Of course, what if you have a competent but otherwise not particularly social Perl programmer?  There's a LOT (the majority actually) of Perl programmers that don't participate socially because they don't have personal time, or work at a company that doesn't give them time to do so.  Are there other ways to read a Perl resume?
 
-If you look at their resume and see PERL instead of Perl, that’s probably an indicator they are not particular strong (same thing goes for the hiring manager BTW, if a company says they want a PERL programmer, they are probably stuck in the 1990’s).  Calling Perl, “PERL” is the kind of mistake that should easily jump out at you.
+If you look at their resume and see PERL instead of Perl, that's probably an indicator they are not particular strong (same thing goes for the hiring manager BTW, if a company says they want a PERL programmer, they are probably stuck in the 1990's).  Calling Perl, “PERL” is the kind of mistake that should easily jump out at you.
 
-But more seriously, when reviewing a potential Perl programmer resume here’s a few things to check out, and to ask when speaking with the programmer:
+But more seriously, when reviewing a potential Perl programmer resume here's a few things to check out, and to ask when speaking with the programmer:
 
 =head2 Technology
 
@@ -85,11 +85,11 @@ Check out the list of technologies the programmer has worked with.  Tech like mo
 
 =head2 Experience Type
 
-Programming versus System Administration.  If the programmer’s resume is filled with a lot of jobs around automation, reporting, logging, etc. that might indicate someone that used Perl primarily in system administration.  You should probe the candidate careful if the target job is in web development.  The disciplines can be quite different.  This is not to say that people don’t cross over; they do.  Just this is something you need to question better.
+Programming versus System Administration.  If the programmer's resume is filled with a lot of jobs around automation, reporting, logging, etc. that might indicate someone that used Perl primarily in system administration.  You should probe the candidate careful if the target job is in web development.  The disciplines can be quite different.  This is not to say that people don't cross over; they do.  Just this is something you need to question better.
 
 =head2 CPAN
 
-You should also ask the programmer about his or her favorite CPAN modules, particularly if they don’t mention on their resume.  Programmers that tend to write a lot of there own code solutions may only mention a handful of core modules, such as DBI (Perl’s Database Interface) and CGI (tools to build interactive websites using legacy technologies).  Programmers that mention a lot of other stuff indicate a programmer that prefers to work within the broader social and software Perl ecosystem.  Matching the programmer to the job is important.
+You should also ask the programmer about his or her favorite CPAN modules, particularly if they don't mention on their resume.  Programmers that tend to write a lot of there own code solutions may only mention a handful of core modules, such as DBI (Perl's Database Interface) and CGI (tools to build interactive websites using legacy technologies).  Programmers that mention a lot of other stuff indicate a programmer that prefers to work within the broader social and software Perl ecosystem.  Matching the programmer to the job is important.
 
 =head1 Conclusion
 
