@@ -16,19 +16,19 @@ Perl has been around a long time, and over the years it has filled a lot of nich
 
 =head2 Technical Concerns
 
-L<Technical Concerns|http://www.modernperlbooks.com/mt/2012/07/perl-shop-maturity-checklist-technical-concerns.html>.
+Blog : L<Technical Concerns|http://www.modernperlbooks.com/mt/2012/07/perl-shop-maturity-checklist-technical-concerns.html>.
 
 Technical concerns relate to how technically advanced the company is.  If a company is not using source control, writing unit tests or is developing directly into production, that tells you the company is cutting a lot of technical corners and probably amassing tons of technical debt.  Knowing this can help you match a developer who would be comfortable in such a situation.  On the other hand, the company might be ripe for a superstar Perl developer who is up to the challenge of bringing the company up to higher standards.  You should try to find out where the company would like to go over the longer term.
 
 =head2 Social Issues
 
-L<Social Issues|http://www.modernperlbooks.com/mt/2012/07/perl-shop-maturity-checklist-social-concerns.html>.
+Blog : L<Social Issues|http://www.modernperlbooks.com/mt/2012/07/perl-shop-maturity-checklist-social-concerns.html>.
 
 These cover things related to how it is to work at a given company.  Things like long hours, flex time, telecommuting options and salary help you not only match the Perl programmer but also tell you a lot about the role of a programmer in the hiring company.  Some companies treat developers like gold, while others see IT as a barely necessary evil.
 
 =head2 Perl Specific
 
-L<Perl Specific|http://www.modernperlbooks.com/mt/2012/07/perl-shop-maturity-checklist-perl-specific-concerns.html>.
+Blog : L<Perl Specific|http://www.modernperlbooks.com/mt/2012/07/perl-shop-maturity-checklist-perl-specific-concerns.html>.
 
 The first two general groups of questions you could rightfully ask for any time of IT job, and any language.  This last group of questions helps you narrow down better what Perl means to this company.  I recommend asking some questions to find out how modern the shop is.  For example, if they are using Apache and mod_perl, these are Perl related technologies that were considered state of the art in the mid to late 1990s.  This is not to say they are bad technologies, but a programmer who is skilled in Plack, Moose, DBIx::Class and modern web frameworks like Catalyst, Mojolicious or Dancer might not be the best match (or they could be, but is something you need to speak to the developer about).
 
