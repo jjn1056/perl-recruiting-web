@@ -1,0 +1,15 @@
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+use Pod::Html;
+use File::Spec::Functions 'catfile';
+
+my ($in, $out) = (
+  catfile(qw/RecruiterFAQ.pod/),
+  catfile(qw/index.html/));
+
+pod2html(
+  "--infile" => $in,
+  "--outfile" => $out);
