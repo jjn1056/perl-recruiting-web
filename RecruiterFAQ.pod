@@ -1,8 +1,8 @@
-=head1 NAME
+=head1 Name
 
 PerlRecruiterFaq - Help for recruiters who trying to find Perl programmers
 
-=head1 SUMMARY
+=head1 Summary
 
 So, you're a recruiter who's looking to fill some Perl programmer positions?  You've come to the right place!  This document is the Perl.org Community's effort to help you better understand Perl programmers, where to find them, as well as better grasp the company requirement.  So let's get started!
 

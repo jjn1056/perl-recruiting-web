@@ -11,5 +11,7 @@ my ($in, $out) = (
   catfile(qw/index.html/));
 
 pod2html(
+  "--css" => 'http://search.cpan.org/s/style.css',
+  "--title" => 'Perl Recruiters FAQ',
   "--infile" => $in,
   "--outfile" => $out);
