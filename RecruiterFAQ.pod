@@ -55,7 +55,7 @@ Perl programmers who are local to one another have organized social groups calle
 
 =head2 Perlmonks
 
-(L<Perlmonks|http://www.perlmonks.org/>) is probably one of the oldest Perl related site.  This community site provides a way to the Perl zealots (that humorously call themselves 'monks') to exchange on all aspects of the language. More than the rating system (users can 'vote' on other users's posts) which is only a rough indication of the user involvement on the site, you might want to consider the powerful search engine that offers a quite complete overview of one user's contribution.
+(L<Perlmonks|http://www.perlmonks.org/>) is probably one of the oldest Perl related site. This community site provides a way to the Perl zealots (that humorously call themselves 'monks') to exchange on all aspects of the language. More than the rating system (users can 'vote' on other users's posts) which is only a rough indication of the user involvement on the site, you might want to consider the powerful search engine to get a good overview of one user's interests/proficiency.
 
 =head2 Blogs
 
@@ -94,6 +94,11 @@ Programming versus System Administration.  If the programmer's resume is filled 
 =head2 CPAN
 
 You should also ask the programmer about his or her favorite CPAN modules, particularly if they don't mention on their resume.  Programmers that tend to write a lot of there own code solutions may only mention a handful of core modules, such as DBI (Perl's Database Interface) and CGI (tools to build interactive websites using legacy technologies).  Programmers that mention a lot of other stuff indicate a programmer that prefers to work within the broader social and software Perl ecosystem.  Matching the programmer to the job is important.
+
+=head2 Perl proficiency
+
+Determining Proficiency is hard, and determining Perl proficiency might be even harder:
+There's no bullet proof solution to assert proficiency during an interview, but the community has come up with some questions to help L<identify good perl programmers|http://modernperlbooks.com/mt/2011/01/how-to-identify-a-good-perl-programmer.html>
 
 =head1 Conclusion
 
